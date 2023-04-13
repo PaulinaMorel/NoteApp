@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118393283155",
+    "project_id": "noteapp-69b5f",
+    "storage_bucket": "noteapp-69b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118393283155:android:666e4b4bc8ac3021ad1ca6",
+        "android_client_info": {
+          "package_name": "pl.edu.uwr.noteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118393283155-jqh6dpmrbb623ju9d83dqmth54dblt08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0GcS9LMvzu-HnWhnEq2fJRYA3ZNgtQIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118393283155-jqh6dpmrbb623ju9d83dqmth54dblt08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
